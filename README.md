@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ARE PARAMESWARUDU</h1>
 # 💫 About Me: <br/>
 - 🔭 I’m a graduat from NIT AP with bachelor degree in Electrical and Electronics Engineering. <br/>
-- 👯 A passionate DevOps engineer with AWS Cloud certified solution architect. <br/>
+- 👯 A passionate DevOps engineer with AWS Cloud knowledge. <br/>
 - 🌱 I’m currently learning tools related to big data, cloud services from AWS, <br>
-- 💬 Ask me about **Jenkins, Docker, Kubernetes, AWS cloud, Terraform**
+- 💬 Ask me about JENKINS, DOCKER, KUBERNETES, AWS CLOUD, TERRAFORM, SERVERLESS etc.
 <br/>
 
 
