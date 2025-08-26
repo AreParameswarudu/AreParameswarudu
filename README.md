@@ -2,8 +2,8 @@
 # 💫 About Me: <br/>
 - 🔭 I’m a graduat from NIT AP with bachelor degree in Electrical and Electronics Engineering. <br/>
 - 👯 A passionate DevOps engineer with AWS Cloud knowledge. <br/>
-- 🌱 I’m currently learning tools related to big data, cloud services from AWS, <br>
-- 💬 Ask me about JENKINS, DOCKER, KUBERNETES, AWS CLOUD, TERRAFORM, SERVERLESS etc.
+- 🌱 I’m currently working with/on, using/learning tools related to Cloud services from AWS, Networking, DevOps<br>
+- 💬 Ask me about JENKINS, DOCKER, KUBERNETES, AWS CLOUD, TERRAFORM, SERVERLESS, Networking on.with Linux machines etc.
 <br/>
 
 
